@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scroll and Text View</string>
+    <string name="Summery">I am a graduate of Chhatrapati Shahuji Maharaj University Kanpur. My major is Electronics and Communication Engineering and I do Problem Solving(Data Structures and Algorithms). I currently practice at Leetcode and participate in CodeChef contests using Java. I have solved over 200 problems on LeetCode and am rated 3* on CodeChef. I am well versed in Computer Science fundamentals like OOPS and also have a keen interest in Java Development. I have built a few projects on Android App Development using Android Studio and Java. I am interested and open to interviewing in the Software Engineering domain.</string>
+    <string name="todo">TODO</string>
+</resources>
